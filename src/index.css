@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --accent: #4f46e5;
+  --accent-tint: rgba(79, 70, 229, 0.1);
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  background: #f4f5f9;
+  color: #1e293b;
+}
